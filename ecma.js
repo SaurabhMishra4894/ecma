@@ -1,4 +1,4 @@
 if(true){
 
-document.write("Inside for loop");
+document.write("CHanged something for loop");
 }
